@@ -1,5 +1,5 @@
 ![logo](https://github.com/AtharvaBhadange505/AtharvaBhadange505/blob/main/github%20banner%202.png)
-<h1 align="center">Hi 👋, I'm Atharva Bhadange</h1>
+<h1 align="center">Hi 👋, I'm Yashraj Damji</h1>
 <h3 align="center">I'm passionate Software Engineer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
